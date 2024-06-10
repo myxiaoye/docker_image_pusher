@@ -1,1 +1,2 @@
 strangevy/cloudflare-ddns-go:latest
+breakstring/gpt-sovits:latest
