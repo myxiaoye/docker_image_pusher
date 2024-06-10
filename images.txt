@@ -2,3 +2,7 @@ strangevy/cloudflare-ddns-go:latest
 breakstring/gpt-sovits:latest
 cloudnas/clouddrive2:latest
 ghcr.io/imagegenius/immich:latest
+adguard/adguardhome:latest
+nyanmisaka/jellyfin:latest
+redis
+xiaoyaliu/alist:latest
