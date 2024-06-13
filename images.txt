@@ -7,3 +7,4 @@ nyanmisaka/jellyfin:latest
 redis
 xiaoyaliu/alist:latest
 hectorqin/reader
+containrrr/watchtower
