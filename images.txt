@@ -8,3 +8,9 @@ redis
 xiaoyaliu/alist:latest
 hectorqin/reader
 containrrr/watchtower
+penpotapp/frontend:latest
+penpotapp/backend:latest
+penpotapp/exporter:latest
+postgres:15
+redis:7
+sj26/mailcatcher:latest
