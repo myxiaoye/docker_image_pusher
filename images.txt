@@ -14,3 +14,4 @@ penpotapp/exporter:latest
 postgres:15
 redis:7
 sj26/mailcatcher:latest
+cnk3x/xunlei:latest
