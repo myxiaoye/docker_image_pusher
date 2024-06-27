@@ -18,4 +18,4 @@ cnk3x/xunlei:latest
 filebrowser/filebrowser
 whyour/qinglong
 privoce/vocechat-server:latest
-
+cleverest/docker-proxy
