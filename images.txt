@@ -1,1 +1,1 @@
-cleverest/docker-proxy
+ghcr.io/imagegenius/immich:latest
