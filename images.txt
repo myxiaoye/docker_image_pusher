@@ -1,1 +1,1 @@
-ghcr.io/imagegenius/immich:latest
+gebangfeng/dockerproxy:0.7
