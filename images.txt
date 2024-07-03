@@ -7,3 +7,4 @@ dqzboy01/mirror-k8sreg:latest
 dqzboy01/mirror-quay:latest
 dqzboy01/mirror-elastic:latest
 dqzboy01/mirror-mcr:latest
+lscr.io/linuxserver/phpmyadmin:latest
