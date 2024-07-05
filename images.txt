@@ -1,2 +1,2 @@
-redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
+altran1502/immich-machine-learning
+altran1502/immich-server
