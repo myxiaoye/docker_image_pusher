@@ -1,11 +1,4 @@
-gebangfeng/dockerproxy:0.7
-dqzboy01/mirror-hub:latest
-dqzboy01/mirror-gcr:latest
-dqzboy01/mirror-ghcr:latest
-dqzboy01/mirror-k8sgcr:latest
-dqzboy01/mirror-k8sreg:latest
-dqzboy01/mirror-quay:latest
-dqzboy01/mirror-elastic:latest
-dqzboy01/mirror-mcr:latest
-lscr.io/linuxserver/phpmyadmin:latest
-ghcr.io/imagegenius/immich:latest
+immich-app/immich-server
+immich-app/immich-machine-learning
+redis:6.2-alpine
+tensorchord/pgvecto-rs:pg14-v0.2.0
